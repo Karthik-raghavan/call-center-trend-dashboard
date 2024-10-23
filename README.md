@@ -5,9 +5,10 @@ The call center manager cannot see the trends and it seems on an assumption, the
 
 ## Task
 
-Create a dashboard in Power BI for the compay that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset
+* Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.
+* Respond to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.
 
-Possible KPI's
+### Possible KPI's
 
 * Overall customer satisfaction
 * Overall calls answered/abandoned
@@ -18,6 +19,6 @@ Possible KPI's
 
 ## Link to view Dashboard
 
-<a href="https://app.powerbi.com/groups/me/reports/d1af3159-2d02-4764-8d72-fe000712b654/ReportSection?experience=power-bi" target="_blank">Call Center Trends Dashboard</a>
+<a href="" target="_blank">Call Center Trends Dashboard</a>
 
-<img src='./assets/images/CSAT.png' alt = 'Call Center Trends Dashboard'/>
+<img src='' alt = 'Call Center Trends Dashboard'/>
